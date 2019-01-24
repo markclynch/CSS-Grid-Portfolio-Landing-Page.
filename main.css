@@ -18,6 +18,7 @@ html {
   grid-template-columns: auto 1fr 1fr 1fr 0.5fr;
   grid-template-rows: auto 1fr 1fr auto auto;
   grid-gap: 1rem;
+  margin-bottom: 200px;
 }
 
 h1:nth-child(1) {
@@ -99,7 +100,6 @@ p {
 }
 
 footer {
-  margin-top: 200px;
   display: flex;
   justify-content: space-around;
 }
